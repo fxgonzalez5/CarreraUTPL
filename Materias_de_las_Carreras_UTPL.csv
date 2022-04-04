@@ -1,0 +1,229 @@
+,Carrera,Ciclo,Materia
+0,Carrera de Arquitectura,Ciclo I,Análisis Matemático Univariado
+1,Carrera de Arquitectura,Ciclo I,Conceptos Fundamentales  de Arquitectura
+2,Carrera de Arquitectura,Ciclo I,Historia y Teoría de aa Arquitectura I     
+3,Carrera de Arquitectura,Ciclo I, Geometría Descriptiva y Proyectiva
+4,Carrera de Arquitectura,Ciclo I,Dibujo e Ideación
+5,Carrera de Arquitectura,Ciclo I,"Humanismo, Universidad y Cultura"
+6,Carrera de Arquitectura,Ciclo II,Fundamentos de Materiales
+7,Carrera de Arquitectura,Ciclo II,Estática
+8,Carrera de Arquitectura,Ciclo II,Taller de Proyectos Arquitectónicos I   
+9,Carrera de Arquitectura,Ciclo II,Historia y Teoría de la Arquitectura II
+10,Carrera de Arquitectura,Ciclo II,Geometría y Dibujo de Arquitectura         
+11,Carrera de Arquitectura,Ciclo II,Expresión Gráfica I
+12,Carrera de Arquitectura,Ciclo III,Construcción I
+13,Carrera de Arquitectura,Ciclo III,Resistencia de Materiales       
+14,Carrera de Arquitectura,Ciclo III,Taller de Proyectos Arquitectónicos II
+15,Carrera de Arquitectura,Ciclo III,Análisis de la Arquitectura I
+16,Carrera de Arquitectura,Ciclo III,Expresión Gráfica II
+17,Carrera de Arquitectura,Ciclo III,Antropología Básica
+18,Carrera de Arquitectura,Ciclo IV,Construcción II
+19,Carrera de Arquitectura,Ciclo IV,Estructuras I
+20,Carrera de Arquitectura,Ciclo IV,Taller de Proyectos Arquitectónicos III
+21,Carrera de Arquitectura,Ciclo IV,Análisis de la Arquitectura del II  
+22,Carrera de Arquitectura,Ciclo IV,Prácticum 1
+23,Carrera de Arquitectura,Ciclo IV,Proyecto de Instalaciones Hidrosanitarias     
+24,Carrera de Arquitectura,Ciclo V,Construcción III
+25,Carrera de Arquitectura,Ciclo V,Estructuras II
+26,Carrera de Arquitectura,Ciclo V,Taller de Proyectos Arquitectónicos IV
+27,Carrera de Arquitectura,Ciclo V,Proyecto de Instalaciones Eléctricas y Especiales
+28,Carrera de Arquitectura,Ciclo V,Prácticum 2.1
+29,Carrera de Arquitectura,Ciclo V,Itinerario I: Construcciones Tradicionales
+30,Carrera de Arquitectura,Ciclo V,Itinerario II: Composición Arquitectónica avanzada        
+31,Carrera de Arquitectura,Ciclo VI,Construcción IV
+32,Carrera de Arquitectura,Ciclo VI,Emprendimiento
+33,Carrera de Arquitectura,Ciclo VI,Taller de Proyectos Arquitectónicos V
+34,Carrera de Arquitectura,Ciclo VI,"Fundamentos de Conservación, Restauración y Rehabilitación Arquitectónica "
+35,Carrera de Arquitectura,Ciclo VI,Prácticum 2.2
+36,Carrera de Arquitectura,Ciclo VI,Itinerario I: Patología en la Edificación
+37,Carrera de Arquitectura,Ciclo VI,Itinerario II: Innovación en Arquitectura
+38,Carrera de Arquitectura,Ciclo VII,Construcción V
+39,Carrera de Arquitectura,Ciclo VII,Diseño Paramétrico y Fabricación Digital
+40,Carrera de Arquitectura,Ciclo VII,Taller de Proyectos Arquitectónicos VI
+41,Carrera de Arquitectura,Ciclo VII,Urbanismo I
+42,Carrera de Arquitectura,Ciclo VII,Prácticum 3: Servicio Comunitario
+43,Carrera de Arquitectura,Ciclo VII,Itinerario I: Arquitectura Bioclimática
+44,Carrera de Arquitectura,Ciclo VII,Itinerario II: Taller de Estructuras Emergentes
+45,Carrera de Arquitectura,Ciclo VIII,Presupuestos y Programación de Obras
+46,Carrera de Arquitectura,Ciclo VIII,Tecnologías Digitales en Arquitectura: Modelación y Desarrollo de Proyectos Bim
+47,Carrera de Arquitectura,Ciclo VIII,Taller de Proyectos Urbano- Arquitectónico I
+48,Carrera de Arquitectura,Ciclo VIII,Urbanismo II
+49,Carrera de Arquitectura,Ciclo VIII,Prácticum 4.1
+50,Carrera de Arquitectura,Ciclo VIII,Composición de Textos Científicos
+51,Carrera de Arquitectura,Ciclo IX,Fiscalización y Control de Obras
+52,Carrera de Arquitectura,Ciclo IX,Análisis Ambiental en la Edificación
+53,Carrera de Arquitectura,Ciclo IX,Taller de Proyectos Urbano- Arquitectónico II
+54,Carrera de Arquitectura,Ciclo IX,Ecología Urbana
+55,Carrera de Arquitectura,Ciclo IX,Prácticum 4.2
+56,Carrera de Arquitectura,Ciclo IX,Ética y Moral  
+57,Carrera de Computación,Ciclo I,Fundamentos Computacionales
+58,Carrera de Computación,Ciclo I,Fundamentos Matemáticos
+59,Carrera de Computación,Ciclo I,"Humanismo, Universidad y Cultura"
+60,Carrera de Computación,Ciclo I,Introducción a la Programación
+61,Carrera de Computación,Ciclo I,Computación y Sociedad
+62,Carrera de Computación,Ciclo I,Estructuras Discretas
+63,Carrera de Computación,Ciclo II,Física Básica
+64,Carrera de Computación,Ciclo II,Álgebra  Lineal
+65,Carrera de Computación,Ciclo II,Análisis Matemático Univariado
+66,Carrera de Computación,Ciclo II,Estructuras de datos
+67,Carrera de Computación,Ciclo II,Programación Orientada a Objetos
+68,Carrera de Computación,Ciclo III,Ecuaciones Diferenciales y Métodos Numéricos
+69,Carrera de Computación,Ciclo III,Lógica Digital
+70,Carrera de Computación,Ciclo III,Fundamentos de Base de Datos
+71,Carrera de Computación,Ciclo III,Programación Funcional y Reactiva
+72,Carrera de Computación,Ciclo III,Antropología Básica
+73,Carrera de Computación,Ciclo III,Prácticum 1.1
+74,Carrera de Computación,Ciclo IV,Arquitectura y Organización de Computadores
+75,Carrera de Computación,Ciclo IV,Análisis de Algoritmos
+76,Carrera de Computación,Ciclo IV,Base de Datos Avanzada
+77,Carrera de Computación,Ciclo IV,Programación Avanzada
+78,Carrera de Computación,Ciclo IV,Prototipado
+79,Carrera de Computación,Ciclo IV,Prácticum 1.2
+80,Carrera de Computación,Ciclo V,Sistemas Operativos
+81,Carrera de Computación,Ciclo V,Introducción a la Inteligencia de Negocios
+82,Carrera de Computación,Ciclo V,Ingeniería Web
+83,Carrera de Computación,Ciclo V,Estadística y Probabilidad
+84,Carrera de Computación,Ciclo V,Ética y Moral
+85,Carrera de Computación,Ciclo V,Fundamentos de Ingeniería de Software
+86,Carrera de Computación,Ciclo V,Prácticum 2.1
+87,Carrera de Computación,Ciclo VI,Teoría de Autómatas y  Compiladores
+88,Carrera de Computación,Ciclo VI,Fundamentos de Redes
+89,Carrera de Computación,Ciclo VI,Ingeniería de Requisitos
+90,Carrera de Computación,Ciclo VI,Gestión de la calidad de software
+91,Carrera de Computación,Ciclo VI,Itinerario I: Plataformas Web
+92,Carrera de Computación,Ciclo VI,Itinerario II: Fundamentos de Análisis de Datos
+93,Carrera de Computación,Ciclo VI,Prácticum 2.2
+94,Carrera de Computación,Ciclo VII,Redes y Sistemas Distribuidos
+95,Carrera de Computación,Ciclo VII,Fundamentos de Inteligencia Artificial
+96,Carrera de Computación,Ciclo VII,Arquitectura de Software
+97,Carrera de Computación,Ciclo VII,Emprendimiento
+98,Carrera de Computación,Ciclo VII,Itinerario I: Plataformas Móviles
+99,Carrera de Computación,Ciclo VII,Itinerario II: Interoperabilidad y Explotación de Datos en Ecosistemas Heterogéneos
+100,Carrera de Computación,Ciclo VII,Prácticum 3. Servicio Comunitario
+101,Carrera de Computación,Ciclo VIII,Computación Paralela y Distribuida
+102,Carrera de Computación,Ciclo VIII,Representación Avanzada del Conocimiento y Razonamiento
+103,Carrera de Computación,Ciclo VIII,Emprendimiento de Base Tecnológica I
+104,Carrera de Computación,Ciclo VIII,Composición de Textos Científicos
+105,Carrera de Computación,Ciclo VIII,Prácticum 4.1
+106,Carrera de Computación,Ciclo VIII,Itinerario I: Plataformas para Juegos
+107,Carrera de Computación,Ciclo VIII,Itinerario II: Análisis y Visualización de Grandes Volúmenes de Datos
+108,Carrera de Computación,Ciclo IX,Gestión de Proyectos
+109,Carrera de Computación,Ciclo IX,Seguridad de la Información
+110,Carrera de Computación,Ciclo IX,Tecnologías Emergentes
+111,Carrera de Computación,Ciclo IX,Emprendimiento de Base Tecnológica II
+112,Carrera de Computación,Ciclo IX,Sistemas Inteligentes
+113,Carrera de Computación,Ciclo IX,Prácticum 4.2
+114,Carrera de Ingeniería Civil,Ciclo I,Estática
+115,Carrera de Ingeniería Civil,Ciclo I,Álgebra  Lineal
+116,Carrera de Ingeniería Civil,Ciclo I,Analisis Matemático Univariado
+117,Carrera de Ingeniería Civil,Ciclo I,Fundamentos de Geometría
+118,Carrera de Ingeniería Civil,Ciclo I,"Humanismo, Universidad y Cultura"
+119,Carrera de Ingeniería Civil,Ciclo I,Metodología de Investigación y Técnicas de Estudio
+120,Carrera de Ingeniería Civil,Ciclo II,Dinámica
+121,Carrera de Ingeniería Civil,Ciclo II,Química Ambiental
+122,Carrera de Ingeniería Civil,Ciclo II,Análisis Matemático Múltivariado
+123,Carrera de Ingeniería Civil,Ciclo II,Dibujo para Ingeniería
+124,Carrera de Ingeniería Civil,Ciclo II,Antropología Básica
+125,Carrera de Ingeniería Civil,Ciclo II,Lenguaje de Programación
+126,Carrera de Ingeniería Civil,Ciclo III,Resistencia de Materiales
+127,Carrera de Ingeniería Civil,Ciclo III,Tecnología de Materiales
+128,Carrera de Ingeniería Civil,Ciclo III,Ecuaciones Diferenciales
+129,Carrera de Ingeniería Civil,Ciclo III,Topografía I
+130,Carrera de Ingeniería Civil,Ciclo III,Estadística
+131,Carrera de Ingeniería Civil,Ciclo III,Mecánica de Fluidos
+132,Carrera de Ingeniería Civil,Ciclo IV,Sistemas Hiperestáticos
+133,Carrera de Ingeniería Civil,Ciclo IV,Hidrología
+134,Carrera de Ingeniería Civil,Ciclo IV,Métodos Numéricos
+135,Carrera de Ingeniería Civil,Ciclo IV,Topografía II
+136,Carrera de Ingeniería Civil,Ciclo IV,Geología Aplicada a la Ingeniería
+137,Carrera de Ingeniería Civil,Ciclo IV,Sistemas de Información Geográfica y Teledetección
+138,Carrera de Ingeniería Civil,Ciclo V,Ingeniería de Estructuras
+139,Carrera de Ingeniería Civil,Ciclo V,Ética y Moral
+140,Carrera de Ingeniería Civil,Ciclo V,Diseño de Hormigones
+141,Carrera de Ingeniería Civil,Ciclo V,Construcción de Carreteras I
+142,Carrera de Ingeniería Civil,Ciclo V,Mecánica de Suelo I
+143,Carrera de Ingeniería Civil,Ciclo V,Prácticum 1
+144,Carrera de Ingeniería Civil,Ciclo VI,Cimientos
+145,Carrera de Ingeniería Civil,Ciclo VI,Ingeniería Hidráulica I
+146,Carrera de Ingeniería Civil,Ciclo VI,Construcción de Carreteras II
+147,Carrera de Ingeniería Civil,Ciclo VI,Mecánica de Suelo II
+148,Carrera de Ingeniería Civil,Ciclo VI,Itinerario I: Ingeniería de Tráfico
+149,Carrera de Ingeniería Civil,Ciclo VI,Itinerario II: Riego
+150,Carrera de Ingeniería Civil,Ciclo VI,Prácticum 2
+151,Carrera de Ingeniería Civil,Ciclo VII,Hormigón Armado
+152,Carrera de Ingeniería Civil,Ciclo VII,Ingeniería Hidráulica II
+153,Carrera de Ingeniería Civil,Ciclo VII,Abastecimiento de Agua
+154,Carrera de Ingeniería Civil,Ciclo VII,Diseño de Pavimentos
+155,Carrera de Ingeniería Civil,Ciclo VII,Prácticum 3
+156,Carrera de Ingeniería Civil,Ciclo VII,Iitnerario I: Vialidad Rural
+157,Carrera de Ingeniería Civil,Ciclo VII,Itinerario II: Calidad de Aguas
+158,Carrera de Ingeniería Civil,Ciclo VIII,Ingeniería de Suelos
+159,Carrera de Ingeniería Civil,Ciclo VIII,Metrología de la Edificación
+160,Carrera de Ingeniería Civil,Ciclo VIII,Alcantarillado y Depuración de Aguas
+161,Carrera de Ingeniería Civil,Ciclo VIII,Tecnología de la Construcción
+162,Carrera de Ingeniería Civil,Ciclo VIII,Prácticum 4.1
+163,Carrera de Ingeniería Civil,Ciclo VIII,Itinerario I: Estabilidad de Taludes Carreteros
+164,Carrera de Ingeniería Civil,Ciclo VIII,Itinerario II: Eliminación de Residuos
+165,Carrera de Ingeniería Civil,Ciclo IX,Composición de Textos Científicos
+166,Carrera de Ingeniería Civil,Ciclo IX,Estructuras Metálicas
+167,Carrera de Ingeniería Civil,Ciclo IX,Organización de Obras
+168,Carrera de Ingeniería Civil,Ciclo IX,Evaluación de Impactos Ambientales
+169,Carrera de Ingeniería Civil,Ciclo IX,Emprendimiento
+170,Carrera de Ingeniería Civil,Ciclo IX,Prácticum 4.2
+171,Carrera de Tecnologías de la Información ,Ciclo I,Algoritmos y Resolución de Problemas
+172,Carrera de Tecnologías de la Información ,Ciclo I,Fundamentos Matemáticos
+173,Carrera de Tecnologías de la Información ,Ciclo I,Fundamentos de Tecnologías de la Información
+174,Carrera de Tecnologías de la Información ,Ciclo I,Metodología de la Investigación y Técnicas de Estudio
+175,Carrera de Tecnologías de la Información ,Ciclo I,Computación y Sociedad
+176,Carrera de Tecnologías de la Información ,Ciclo I,"Humanismo, Universidad y Cultura"
+177,Carrera de Tecnologías de la Información ,Ciclo II,Álgebra Lineal
+178,Carrera de Tecnologías de la Información ,Ciclo II,Cálculo Diferencial
+179,Carrera de Tecnologías de la Información ,Ciclo II,Fundamentos de Hardware
+180,Carrera de Tecnologías de la Información ,Ciclo II,Computación Ubícua
+181,Carrera de Tecnologías de la Información ,Ciclo II,Fundamentos de Programación
+182,Carrera de Tecnologías de la Información ,Ciclo II,Antropología Básica
+183,Carrera de Tecnologías de la Información ,Ciclo III,Cálculo Integral
+184,Carrera de Tecnologías de la Información ,Ciclo III,Estrucutras Discretas
+185,Carrera de Tecnologías de la Información ,Ciclo III,Arquitectura de Computadoras y Sistemas Operativos
+186,Carrera de Tecnologías de la Información ,Ciclo III,Programación Orientada a Objetos
+187,Carrera de Tecnologías de la Información ,Ciclo III,Estructuras de Datos
+188,Carrera de Tecnologías de la Información ,Ciclo III,Ética y Moral
+189,Carrera de Tecnologías de la Información ,Ciclo IV,Estadística para la Ingenierías y la Arquitectura
+190,Carrera de Tecnologías de la Información ,Ciclo IV,Modelado de Sistemas
+191,Carrera de Tecnologías de la Información ,Ciclo IV,Prácticum I
+192,Carrera de Tecnologías de la Información ,Ciclo IV,Fundamentos de Base de Datos
+193,Carrera de Tecnologías de la Información ,Ciclo IV,Tecnologías Web
+194,Carrera de Tecnologías de la Información ,Ciclo IV,Comunicación Técnica y Profesional
+195,Carrera de Tecnologías de la Información ,Ciclo V,Fundamentos de Interacción Humano Computador
+196,Carrera de Tecnologías de la Información ,Ciclo V,Comunicación de Datos
+197,Carrera de Tecnologías de la Información ,Ciclo V,Prácticum II
+198,Carrera de Tecnologías de la Información ,Ciclo V,Fundamentos de Ingeniería de Software
+199,Carrera de Tecnologías de la Información ,Ciclo V,Administración de Base de Datos
+200,Carrera de Tecnologías de la Información ,Ciclo V,Desarrollo Web
+201,Carrera de Tecnologías de la Información ,Ciclo VI,Redes de Dispositivos
+202,Carrera de Tecnologías de la Información ,Ciclo VI,Planificación Estratégica y Sistemas de Calidad Empresarial
+203,Carrera de Tecnologías de la Información ,Ciclo VI,Metodologías de Desarrollo
+204,Carrera de Tecnologías de la Información ,Ciclo VI,Gestión de la Calidad del Software
+205,Carrera de Tecnologías de la Información ,Ciclo VI,Ingeniería de Requisitos
+206,Carrera de Tecnologías de la Información ,Ciclo VI,Itinerario I: Plataformas Emergentes
+207,Carrera de Tecnologías de la Información ,Ciclo VI,Itinerario II: Desarrollo Basado en Plataformas Web
+208,Carrera de Tecnologías de la Información ,Ciclo VII,Arquitectura de Redes
+209,Carrera de Tecnologías de la Información ,Ciclo VII,Arquitectura de Software
+210,Carrera de Tecnologías de la Información ,Ciclo VII,Prácticum III: Servicio Comunitario
+211,Carrera de Tecnologías de la Información ,Ciclo VII,Arquitectura Empresarial
+212,Carrera de Tecnologías de la Información ,Ciclo VII,Gestión de Proyectos
+213,Carrera de Tecnologías de la Información ,Ciclo VII,Itinerario I: Modelado del Usuario
+214,Carrera de Tecnologías de la Información ,Ciclo VII,Itinerario II: Desarrollo basado en Plataformas Móviles
+215,Carrera de Tecnologías de la Información ,Ciclo VIII,Fundamentos y Aplicación de Seguridad de la Información
+216,Carrera de Tecnologías de la Información ,Ciclo VIII,Sistemas Distribuidos
+217,Carrera de Tecnologías de la Información ,Ciclo VIII,Aplicación de Matemáticas y Estadística en Tecnologías de la Información
+218,Carrera de Tecnologías de la Información ,Ciclo VIII,Organización y Administración de Infraestructura de Tecnologías de la Información
+219,Carrera de Tecnologías de la Información ,Ciclo VIII,Prácticum 4.1
+220,Carrera de Tecnologías de la Información ,Ciclo VIII,Itinerario I: Aplicación de Interacción Humano Computador
+221,Carrera de Tecnologías de la Información ,Ciclo VIII,Itinerario II: Programación Integrativa
+222,Carrera de Tecnologías de la Información ,Ciclo IX,Gobernanza de Tecnologías de la Información
+223,Carrera de Tecnologías de la Información ,Ciclo IX,Evaluación de la Seguridad en Sistemas de Tecnologías de la Información
+224,Carrera de Tecnologías de la Información ,Ciclo IX,Proyectos de Tecnologías de la Información
+225,Carrera de Tecnologías de la Información ,Ciclo IX,Emprendimiento
+226,Carrera de Tecnologías de la Información ,Ciclo IX,Prácticum 4.2
+227,Carrera de Tecnologías de la Información ,Ciclo IX,Composición de Textos Científicos

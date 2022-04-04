@@ -1,0 +1,128 @@
+//anclas @ymtorres
+(function ($) {
+    $(document).ready(function () {
+
+
+//accordion
+        $(".accordion-title").click(function () {
+            $(".accordion-title").removeClass("selected");
+            $(this).addClass("selected");
+            $(this).next().addClass("accordeon-selected");
+            $(this).next().toggle("slow");
+        });
+//botones
+        $(".boton").append($("<div class='flecha'><p class='boton-mouseover'><img src='/carreras/sites/all/themes/utpl/images/arrow1.png'></p>\n\
+           <p class='boton-bg'><img src='/carreras/sites/all/themes/utpl/images/arrow2.png'></p></div>"));
+        $(".boton ").mouseover(function () {
+            $(this).addClass("selected");
+        });
+        $(".boton").mouseout(function () {
+            $(this).removeClass("selected");
+        });
+
+//modal para instalaciones
+        $(".laboratorio-descripcion").append($("<div class='closemodal fitimg'><img src='/carreras/sites/all/themes/utpl/images/close.png'></div>"));
+
+        $(".item-laboratorios > section").click(function () {
+        $(".item-laboratorios").removeClass("openmodal");
+        $(this).parent().addClass("openmodal");
+        });
+
+        $(".closemodal").click(function () {
+        $(".item-laboratorios").removeClass("openmodal");
+        });
+
+//scroll
+        $(".left-noticias").click(function () {
+        var leftPos = $('.container-noticias').scrollLeft();
+        $(".container-noticias").animate({scrollLeft: leftPos - 300}, 100);
+        });
+        $(".right-noticias").click(function () {
+        var leftPos = $('.container-noticias').scrollLeft();
+        $(".container-noticias").animate({scrollLeft: leftPos + 300}, 100);
+        });
+
+        $(".left-videos").click(function () {
+        var leftPos = $('.container-videos').scrollLeft();
+        $(".container-videos").animate({scrollLeft: leftPos - 300}, 100);
+        });
+        $(".right-videos").click(function () {
+        var leftPos = $('.container-videos').scrollLeft();
+        $(".container-videos").animate({scrollLeft: leftPos + 300}, 100);
+        });
+
+//title-movil
+            if ($(window).width() < 920) {
+            $('.title-movil').next().hide();
+            $('.title-movil').next().addClass("title-wrapper");
+            $('#menu-interno').hide();
+            $('#menu-interno').addClass("menu-option");
+            }else{
+            $('.title-movil').show();
+             $('#menu-interno').show();
+            }
+            
+            $(".title-movil").click(function () {
+            $(this).next().toggle("slow");
+            });
+            $("#m-menu").click(function () {
+            $('#menu-interno').toggle("slow");
+            });
+            $(".menu-option a").click(function () {
+            $('#menu-interno').toggle("slow");
+            });
+//ocultar menus sin información 
+            if ($('.proyectos').length){
+            }else{
+            $('#proyectos').hide();
+            }
+            if ($('.novedades').length){
+            }else{
+            $('#novedades').hide();
+            }
+//tabs
+   $("#tabs").tabs();
+
+//becas-oferta
+  //efecto en oferta
+$(".wrapper-oferta .desplegable-opciones > div > div").click(function () {
+$(".wrapper-oferta .desplegable-opciones > div > div").removeClass("selected");
+$(this).addClass("selected");
+var ref = "."+ $(this).attr('id');
+$(".wrapper-oferta .desplegable-contenido > div > div").hide('100');
+$(ref).show('100');
+});
+
+
+    //efecto en becas
+$(".wrapper-becas .desplegable-opciones > div > div").click(function () {
+$(".wrapper-becas .desplegable-opciones > div > div").removeClass("selected");
+$(this).addClass("selected");
+var ref = "."+ $(this).attr('id');
+$(".wrapper-becas .desplegable-contenido > div > div").hide('100');
+$(ref).show('100');
+});
+
+
+//menu-movil para oferta 
+$(".wrapper-oferta .movil-seleccione").click(function () {
+$(this).next().addClass("movil-desplegable-opciones");
+$(this).next().toggle(100);
+});
+$(".wrapper-oferta .desplegable-opciones > div > div").click(function () {
+$(".wrapper-oferta .movil-desplegable-opciones").toggle(100);
+});
+//menu-movil para becas
+$(".wrapper-becas .movil-seleccione").click(function () {
+$(this).next().addClass("movil-desplegable-opciones");
+$(this).next().toggle(100);
+});
+$(".wrapper-becas .desplegable-opciones > div > div").click(function () {
+$(".wrapper-becas .movil-desplegable-opciones").toggle(100);
+});
+
+
+
+
+    });
+})(jQuery);

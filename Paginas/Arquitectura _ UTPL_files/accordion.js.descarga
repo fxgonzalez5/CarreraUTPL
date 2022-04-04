@@ -1,0 +1,43 @@
+/* 
+    Author     : afleon2 
+*/
+       /* @ymtorres */
+
+(function ($) {
+
+    $(document).ready(function () {
+
+        // Acordion para Plan de estudios
+        $(".btn-semestre").next().hide();
+
+        $(".btn-semestre").click(function () {
+            $(this).next().toggle("slow");
+        });
+      
+
+        // Acordion Menu
+        $(".plandeestudios").hide();
+        $(".docentes").hide();
+        $(".novedades").hide();
+        $(".proyectos").hide();
+        $(".investigacion").hide();
+        $(".instalaciones").hide();
+        //inicializar
+        $("nav #menu-interno > div:first-child").addClass("selected-option");
+        var reftab = "." + $('.selected-option').attr('id');
+        $(reftab).show();
+        //onclick tabs
+        $("nav #menu-interno > div").click(function () {
+            $('nav #menu-interno > div').removeClass("selected-option");
+            $(this).addClass("selected-option");
+            var reftab = "." + $('.selected-option').attr('id');
+            $(".tab-content").hide(455);
+            $(reftab).show(455);
+        });
+
+
+
+
+
+    });
+})(jQuery);

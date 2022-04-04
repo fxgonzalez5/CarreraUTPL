@@ -1,0 +1,40 @@
+//anclas @ymtorres
+(function ($) {
+    $(document).ready(function () {
+        $('.nav-submenu a').click(function (e) {
+            e.preventDefault(); //evitar el eventos del enlace normal
+            var cadena = $(this).attr('href');
+            var ancla = "#" + cadena.split("#")[1];
+
+            $('body,html').stop(true, true).animate({
+                scrollTop: $(ancla).offset().top - 7
+            }, 1000);
+        });
+
+        //bloque de contenido admisiones
+        $('.estasbuscando .group-enlace-bloque-img').click(function (e) {
+            e.preventDefault(); //evitar el eventos del enlace normal
+            var cadena = $(this).attr('href');
+            var ancla = "#" + cadena.split("#")[1];
+            $('body,html').stop(true, true).animate({
+                scrollTop: $(ancla).offset().top - 7
+            }, 1000);
+        });
+
+
+        $(window).scroll(function () {
+            var WindowTop = $(window).scrollTop();
+            $('section').each(function (i) {
+                var seccion = $(this).attr('id');
+                if (WindowTop > $(this).offset().top - 50 &&
+                        WindowTop < $(this).offset().top + $(this).outerHeight(true)
+                        ) {
+                    $('.nav-submenu a').removeClass('active');
+                    $(".nav-submenu a[href$='" + seccion + "']").addClass('active');
+                }
+            });
+
+        });
+
+    });
+})(jQuery);
